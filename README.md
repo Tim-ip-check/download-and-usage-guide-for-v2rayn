@@ -12,14 +12,14 @@
 
 ### 购买后点  订阅  是链接留着备用（注意电脑手机版不同）
 
-![订阅节点](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/1_abec479082.png)
+![订阅节点](./微信图片_2026-06-08_122534_370.png)
 
 ## 三、打开V2点击配置项------从剪切板导入分享链接-----订阅分组----更新全部订阅（通过代理）会如图
 
-![打开V2点击配置项](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/2_5f33459b0f.png)
+![打开V2点击配置项](./微信图片_2026-06-08_122553_355.png)
 
-![更新全部订阅（通过代理）](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/3_e60ea02069.png)
+![更新全部订阅（通过代理）](./微信图片_2026-06-08_122613_476.png)
 
 ### 很多节点自己选择速度快的 右键 设为活动服务器  启用Tun 即可实现海外环境。
 
-![启用Tun 即可实现海外环境](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/4_ae24517115.png)
+![启用Tun 即可实现海外环境](./微信图片_2026-06-08_122623_972.png)
